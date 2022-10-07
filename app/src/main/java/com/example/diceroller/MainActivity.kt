@@ -19,7 +19,7 @@ class MainActivity : AppCompatActivity() {
         rollButton.setOnClickListener { rollDice() }
         // Haz una tirada de dados cuando se inicia la aplicación
         rollDice()
-    } dfdfgd
+    }
     /**
      * Tira los dados y actualiza la pantalla con el resultado.
      */
